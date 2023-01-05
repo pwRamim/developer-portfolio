@@ -228,3 +228,8 @@ input{
 .contact a{
     text-decoration: none;
 }
+
+textarea{
+    resize: vertical;
+    min-height: calc(1.5em + 0.75rem + 2px);
+}
